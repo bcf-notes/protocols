@@ -4,6 +4,7 @@ dynamic, top-line summaries on management of common presentations in palliative 
 
 [dyspnoea](dyspnoea.md)  
 [fatigue](fatigue.md)  
+[mucositis](mucositis.md)  
 &nbsp;
 
 &nbsp;
