@@ -1,3 +1,3 @@
-# Protocols in Supportive Care
+# in supportive care
 
-Dynamic, top-line summaries on management of common presentations in palliative and supportive care
+dynamic, top-line summaries on management of common presentations in palliative and supportive care
