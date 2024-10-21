@@ -9,4 +9,5 @@ dynamic, top-line summaries on management of common presentations in palliative 
 
 &nbsp;
 
-[back to home](index.md)
+---
+[*back to home*](index.md)
